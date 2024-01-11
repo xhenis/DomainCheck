@@ -41,3 +41,5 @@ try:
 except:
   print ("  [FAIL] DMARC record not found.")
   pass
+
+print ("Done")
